@@ -312,6 +312,9 @@ If you find this project helpful, please give it a star! ⭐
 ![Version](https://img.shields.io/badge/Version-1.0.0-orange)
 
 ---
+<img width="1288" height="682" alt="image" src="https://github.com/user-attachments/assets/887b2c87-87c9-46e5-b4c9-f31cb6c771d7" />
+<img width="1297" height="658" alt="image" src="https://github.com/user-attachments/assets/a79502fb-92c0-40bc-ac87-99bacecf59ad" />
+
 
 **Happy Coding!** 🚀✨
 
